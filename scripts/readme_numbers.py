@@ -70,7 +70,8 @@ DIRECTORY = os.path.join(ROOT, "directory")
 SHELVES = [
     "apis", "mcp-servers", "sdks", "facilitators", "frameworks", "tools",
     "security", "ecosystem", "aggregators", "global", "learning",
-    "community", "market-data",
+    "community", "market-data", "examples", "use-cases", "research",
+    "publishers",
 ]
 
 # An entry is a top-level markdown bullet opening with a link. Same shape the

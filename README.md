@@ -24,7 +24,7 @@ gold-402 is small on purpose. A person reads every entry before it goes on the l
 
 ## The Directory
 
-The product. <!--COUNT:START-->580<!--COUNT:END--> entries across <!--SHELVES:START-->13<!--SHELVES:END--> shelves, in [`directory/`](directory/).
+The product. <!--COUNT:START-->580<!--COUNT:END--> entries across <!--SHELVES:START-->17<!--SHELVES:END--> shelves, in [`directory/`](directory/).
 
 | Shelf | What's on it |
 |---|---|
