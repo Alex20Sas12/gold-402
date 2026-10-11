@@ -25,6 +25,7 @@ Server-side integrations for accepting x402 payments, and agent frameworks with 
 
 ### API Gateways
 - [Zuplo x402](https://zuplo.com/blog/mcp-api-payments-with-x402) — API gateway with x402 paywalls. Add pay-per-request monetization to any API or MCP server. Sub-cent transaction fees on Base and Solana. ([Docs](https://zuplo.com/docs/articles/monetization))
+- [Agent Commerce Gateway](https://github.com/devlab-group/agent-commerce) — Self-hosted, non-custodial TypeScript gateway that puts x402 v2 payments in front of an existing HTTP API and serves it to agents over HTTP, MCP and A2A.
 
 ---
 
@@ -32,7 +33,6 @@ Server-side integrations for accepting x402 payments, and agent frameworks with 
 
 ### FastAPI
 - [FastAPI example](https://github.com/x402-foundation/x402/tree/main/examples/python) — Official complete FastAPI implementation with x402 payment middleware.
-- [Agent Commerce Gateway](https://github.com/devlab-group/agent-commerce) — Self-hosted, non-custodial TypeScript gateway that puts x402 v2 payments in front of an existing HTTP API and serves it to agents over HTTP, MCP and A2A.
 
 ---
 
